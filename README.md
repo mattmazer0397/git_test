@@ -1,0 +1,1 @@
+This is Matthew Mazer's first git project in the odin project. Though this is not the first time I've started the Odin Project.
